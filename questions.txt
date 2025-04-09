@@ -1,0 +1,3 @@
+Should we use Adam or SGD for optimiser function?
+Should we read as color or grayscale?
+ Devtest shuffle true of false?
